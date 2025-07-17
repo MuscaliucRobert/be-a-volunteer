@@ -1,4 +1,4 @@
-package com.example.be_a_volunteer;
+package com.example.volunteer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

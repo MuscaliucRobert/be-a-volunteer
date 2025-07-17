@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0666e587-1092-41ad-a7c7-d3a34a7d5e3a" name="Changes" comment="" />
+    <list default="true" id="0666e587-1092-41ad-a7c7-d3a34a7d5e3a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +35,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/rmuscaliuc/Spring Boot/be-a-volunteer",
     "node.js.detected.package.eslint": "true",
@@ -60,7 +63,8 @@
       <option name="presentableId" value="Default" />
       <updated>1752737994951</updated>
       <workItem from="1752738000565" duration="191000" />
-      <workItem from="1752738591006" duration="1248000" />
+      <workItem from="1752738591006" duration="3846000" />
+      <workItem from="1752749425650" duration="42000" />
     </task>
     <servers />
   </component>
